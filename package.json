@@ -1,6 +1,6 @@
 {
   "name": "use-useless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A completely useless React hook",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,9 @@
     "react",
     "hook",
     "useless",
-    "funny"
+    "idk",
+    "use",
+    "jordi"
   ],
   "author": "Jordi Enric",
   "license": "MIT",
