@@ -73,6 +73,11 @@ Why not? Sometimes you just need a package that does absolutely nothing useful. 
 
 Feel free to contribute more useless features! The only requirement is that they must serve no practical purpose.
 
+## To do
+
+- [ ] Add tests
+- [ ] Add CI/CD
+
 ## License
 
 MIT © Jordi Enric
