@@ -6,7 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "pub": "npm run build && npm publish"
   },
   "keywords": [
     "react",
@@ -14,7 +15,7 @@
     "useless",
     "funny"
   ],
-  "author": "Your Name",
+  "author": "Jordi Enric",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0"
